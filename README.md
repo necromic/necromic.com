@@ -1,2 +1,0 @@
-# necromic.com
-Personal webpage
