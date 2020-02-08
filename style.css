@@ -137,4 +137,6 @@ article.proyecto-gamereportilu {background-image: url("img/bg-gamereportilu.PNG"
 	.titulo-subtitulo{left: calc((100vw - 960px) / 4); bottom: 10vh;}
 	.proyecto-enlace{ right: calc((100vw - 960px) / 4); top: 10vh;}
 	.proyecto-descripcion { right: calc(((100vw - 960px) / 4) - 20px); top: calc(10vh + 30px);}
+
+	.diapositiva{padding-top: 135px; padding-bottom: 135px;}
 }
