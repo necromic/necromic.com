@@ -99,7 +99,7 @@ footer {padding: 60px 0;}
 .mis-intereses li:last-child {animation: animation-misintereses3 30s linear backwards infinite;}
 
 
-article[class^="proyecto-"] {min-height: 200vh;background-size: cover; background-attachment: fixed; background-position: center center; position: relative; overflow: hidden; clip-path: padding-box;}
+article[class^="proyecto-"] {min-height: 200vh;background-size: cover; background-attachment: fixed; background-position: center center; position: relative; overflow: hidden; clip-path: inset(0 0 0 0);}
 
 article.proyecto-gamereport {background-image: url("img/bg-gamereport.png"); z-index: 1;}
 article.proyecto-malagajam {background-image: url("img/bg-malagajam.png"); z-index: 2;}
