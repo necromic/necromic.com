@@ -102,12 +102,14 @@ footer {padding: 60px 0;}
 article[class^="proyecto-"] {min-height: 200vh;background-size: cover; background-attachment: fixed; background-position: center center; position: relative; overflow: hidden; clip-path: inset(0 0 0 0);}
 
 article.proyecto-gamereport {background-image: url("img/bg-gamereport.png"); z-index: 1;}
-article.proyecto-malagajam {background-image: url("img/bg-malagajam.png"); z-index: 2;}
-article.proyecto-amordemadre {background-image: url("img/bg-amordemadre.png"); z-index: 3;}
-article.proyecto-fujitsu {background-image: url("img/bg-fujitsu.png"); background-position: right center; z-index: 4;}
-article.proyecto-fejjyda {background-image: url("img/bg-fejjyda.png"); z-index: 5;}
-article.proyecto-famicase {background-image: url("img/bg-famicase.png"); z-index: 6;}
-article.proyecto-gamereportilu {background-image: url("img/bg-gamereportilu.PNG"); z-index: 7;}
+article.proyecto-blackmouth {background-image: url("img/bg-blackmouth.png"); z-index: 2;}
+article.proyecto-prisma {background-image: url("img/bg-prisma.png"); z-index: 3;}
+article.proyecto-malagajam {background-image: url("img/bg-malagajam.png"); z-index: 4;}
+article.proyecto-amordemadre {background-image: url("img/bg-amordemadre.png"); z-index: 5;}
+article.proyecto-fujitsu {background-image: url("img/bg-fujitsu.png"); background-position: right center; z-index: 6;}
+article.proyecto-fejjyda {background-image: url("img/bg-fejjyda.png"); z-index: 6;}
+article.proyecto-famicase {background-image: url("img/bg-famicase.png"); z-index: 8;}
+article.proyecto-gamereportilu {background-image: url("img/bg-gamereportilu.PNG"); z-index: 9;}
 .proyecto-imagen {margin: 0 auto; display: block; position: relative; z-index: 99; transition: opacity ease .2s;   pointer-events: none;}
 
 .titulo-subtitulo, .proyecto-descripcion, .proyecto-enlace{color: #fff; position: fixed; align-items: baseline; display: flex; white-space: nowrap; width: 30px; height: 30px;}
